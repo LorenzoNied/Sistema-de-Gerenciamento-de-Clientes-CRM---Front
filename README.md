@@ -1,1 +1,4 @@
 # Sistema-de-Gerenciamento-de-Clientes-CRM---Front
+Sistema de Gerenciamento de Clientes (CRM) para Pequenos Negócios Descrição Um sistema de CRM (Customer Relationship Management) simples que permite a pequenas empresas gerenciar seus clientes. O sistema oferece funcionalidades para cadastro, consulta, atualização e exclusão de informações dos clientes, incluindo dados pessoais, histórico de compras e contatos. Funcionalidades Cadastro de Clientes: Adicione novos clientes ao sistema com informações detalhadas. Consulta de Clientes: Pesquise e visualize os dados dos clientes registrados. Atualização de Dados: Edite as informações dos clientes conforme necessário. Exclusão de Clientes: Remova clientes do sistema quando não forem mais necessários. Histórico de Compras: Mantenha um registro das compras realizadas por cada cliente.
+
+P.O : Lorenzo Nied Eduardo Franzosi: Front-end Gabriel Zatti: Front-end Alex: Back-end Artur Guarese: Back-end Data Base: Lorenzo Nied
